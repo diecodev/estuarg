@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "packageManager": "pnpm@10.24.0",
   "dependencies": {
     "@next/font": "^13.0.2",
     "@types/node": "18.11.9",
